@@ -1,1 +1,5 @@
-*/*.ipynb
+# Ignore all .ipynb files anywhere
+*.ipynb       # In root directory
+**/*.ipynb    # In any subdirectory at any depth
+**/*.png
+**/*.jpg
