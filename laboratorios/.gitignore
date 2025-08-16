@@ -1,4 +1,4 @@
 # Ignore all .ipynb files anywhere
-*.ipynb       # In root directory
-**/*.png
-**/*.jpg
+cnn.ipynb       # In root directory
+/dataset/         # Directory containing dataset
+drive-download-20250815T224032Z-1-001.zip  # Downloaded dataset zip file
