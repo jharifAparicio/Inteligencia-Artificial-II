@@ -1,0 +1,4 @@
+# Ignore all .ipynb files anywhere
+*.ipynb       # In root directory
+**/*.png
+**/*.jpg
