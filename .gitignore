@@ -1,10 +1,7 @@
 # Ignore all .ipynb files anywhere
-*.ipynb       # In root directory
-**/*.ipynb    # In any subdirectory at any depth
+*.ipynb
+**/*.ipynb
 **/*.png
 **/*.jpg
-
-laboratorios/cnn.ipynb  # Specific notebook file
-laboratorios/dataset/         # Directory containing dataset
-laboratorios/drive-download-20250815T224032Z-1-001.zip  # Downloaded
-laboratorios/laboratorio\ 3/datset.csv.zip  # Specific zip file
+**/*.zip
+**/*.pth
