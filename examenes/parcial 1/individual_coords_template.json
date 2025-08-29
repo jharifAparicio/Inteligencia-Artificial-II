@@ -1,0 +1,218 @@
+{
+  "AP_1": {
+    "x": 1119,
+    "y": 692,
+    "width": 60,
+    "height": 60
+  },
+  "AP_2": {
+    "x": 1172,
+    "y": 692,
+    "width": 60,
+    "height": 60
+  },
+  "AP_3": {
+    "x": 1235,
+    "y": 692,
+    "width": 60,
+    "height": 60
+  },
+  "LYP_ADN_1": {
+    "x": 1119,
+    "y": 770,
+    "width": 60,
+    "height": 60
+  },
+  "LYP_ADN_2": {
+    "x": 1172,
+    "y": 770,
+    "width": 60,
+    "height": 60
+  },
+  "LYP_ADN_3": {
+    "x": 1235,
+    "y": 770,
+    "width": 60,
+    "height": 60
+  },
+  "APB_SUMATE_1": {
+    "x": 1119,
+    "y": 850,
+    "width": 60,
+    "height": 60
+  },
+  "APB_SUMATE_2": {
+    "x": 1172,
+    "y": 850,
+    "width": 60,
+    "height": 60
+  },
+  "APB_SUMATE_3": {
+    "x": 1235,
+    "y": 850,
+    "width": 60,
+    "height": 60
+  },
+  "LIBRE_1": {
+    "x": 1119,
+    "y": 1000,
+    "width": 60,
+    "height": 60
+  },
+  "LIBRE_2": {
+    "x": 1172,
+    "y": 1000,
+    "width": 60,
+    "height": 60
+  },
+  "LIBRE_3": {
+    "x": 1235,
+    "y": 1000,
+    "width": 60,
+    "height": 60
+  },
+  "FP_1": {
+    "x": 1119,
+    "y": 1080,
+    "width": 60,
+    "height": 60
+  },
+  "FP_2": {
+    "x": 1172,
+    "y": 1080,
+    "width": 60,
+    "height": 60
+  },
+  "FP_3": {
+    "x": 1235,
+    "y": 1080,
+    "width": 60,
+    "height": 60
+  },
+  "MAS_IPSP_1": {
+    "x": 1119,
+    "y": 1160,
+    "width": 60,
+    "height": 60
+  },
+  "MAS_IPSP_2": {
+    "x": 1172,
+    "y": 1160,
+    "width": 60,
+    "height": 60
+  },
+  "MAS_IPSP_3": {
+    "x": 1235,
+    "y": 1160,
+    "width": 60,
+    "height": 60
+  },
+  "MORENA_1": {
+    "x": 1119,
+    "y": 1230,
+    "width": 60,
+    "height": 60
+  },
+  "MORENA_2": {
+    "x": 1172,
+    "y": 1230,
+    "width": 60,
+    "height": 60
+  },
+  "MORENA_3": {
+    "x": 1235,
+    "y": 1230,
+    "width": 60,
+    "height": 60
+  },
+  "UNIDAD_1": {
+    "x": 1119,
+    "y": 1310,
+    "width": 60,
+    "height": 60
+  },
+  "UNIDAD_2": {
+    "x": 1172,
+    "y": 1310,
+    "width": 60,
+    "height": 60
+  },
+  "UNIDAD_3": {
+    "x": 1235,
+    "y": 1310,
+    "width": 60,
+    "height": 60
+  },
+  "PDC_1": {
+    "x": 1119,
+    "y": 1390,
+    "width": 60,
+    "height": 60
+  },
+  "PDC_2": {
+    "x": 1172,
+    "y": 1390,
+    "width": 60,
+    "height": 60
+  },
+  "PDC_3": {
+    "x": 1235,
+    "y": 1390,
+    "width": 60,
+    "height": 60
+  },
+  "VOTOS_VALIDOS_1": {
+    "x": 1119,
+    "y": 1515,
+    "width": 60,
+    "height": 60
+  },
+  "VOTOS_VALIDOS_2": {
+    "x": 1172,
+    "y": 1515,
+    "width": 60,
+    "height": 60
+  },
+  "VOTOS_VALIDOS_3": {
+    "x": 1235,
+    "y": 1515,
+    "width": 60,
+    "height": 60
+  },
+  "VOTOS_BLANCOS_1": {
+    "x": 1119,
+    "y": 1650,
+    "width": 60,
+    "height": 60
+  },
+  "VOTOS_BLANCOS_2": {
+    "x": 1172,
+    "y": 1650,
+    "width": 60,
+    "height": 60
+  },
+  "VOTOS_BLANCOS_3": {
+    "x": 1235,
+    "y": 1650,
+    "width": 60,
+    "height": 60
+  },
+  "VOTOS_NULOS_1": {
+    "x": 1119,
+    "y": 1730,
+    "width": 60,
+    "height": 60
+  },
+  "VOTOS_NULOS_2": {
+    "x": 1172,
+    "y": 1730,
+    "width": 60,
+    "height": 60
+  },
+  "VOTOS_NULOS_3": {
+    "x": 1235,
+    "y": 1730,
+    "width": 60,
+    "height": 60
+  }
+}
