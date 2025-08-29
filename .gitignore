@@ -6,3 +6,4 @@
 **/*.zip
 **/*.pth
 practicas/GAN/data/*
+**/data/
