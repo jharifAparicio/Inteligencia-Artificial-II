@@ -7,3 +7,4 @@
 **/*.pth
 practicas/GAN/data/*
 **/data/
+**/raw/
